@@ -1,1 +1,6 @@
+.DS_Store
 .vscode
+/superEcho/*.dSYM
+/superEcho/superEcho
+/superCat/*.dSYM
+/superCat/superCat
